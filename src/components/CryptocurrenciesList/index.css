@@ -1,0 +1,36 @@
+/* Write your CSS code here */
+.head {
+  color: #00e7ff;
+}
+.card {
+  text-align: center;
+}
+.image {
+  width: 900px;
+  height: 200px;
+}
+.card1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: white;
+  background-color: #092e33;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+  border: 2px solid;
+  border-color: #00e7ff;
+}
+.mini-card {
+  display: flex;
+  flex-direction: row;
+}
+.para {
+  margin-right: 100px;
+}
+.para1 {
+  margin-left: 40px;
+}
+.para2 {
+  margin-left: 40px;
+}
